@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "robofriends-hook",
+  "name": "robofriends-hook",
   "icons": [
     {
       "src": "favicon.ico",
